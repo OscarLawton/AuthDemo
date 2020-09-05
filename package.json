@@ -1,7 +1,6 @@
 {
   "name": "authdemo",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,5 +17,14 @@
     "passport": "^0.4.1",
     "passport-local": "^1.0.0",
     "passport-local-mongoose": "^6.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OscarLawton/AuthDemo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/OscarLawton/AuthDemo/issues"
+  },
+  "homepage": "https://github.com/OscarLawton/AuthDemo#readme",
+  "description": ""
 }
